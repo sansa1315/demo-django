@@ -1,3 +1,5 @@
 # demo-django
 
-un demon para chekar
+un demo para chekar
+
+push desde vscode
